@@ -1,0 +1,1 @@
+$$ \[p Longleftrightarrow q \]$$
